@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-hw4/static/css/main.820d7145.css",
+    "main.js": "/todo-hw4/static/js/main.e0830982.js",
+    "index.html": "/todo-hw4/index.html",
+    "main.820d7145.css.map": "/todo-hw4/static/css/main.820d7145.css.map",
+    "main.e0830982.js.map": "/todo-hw4/static/js/main.e0830982.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.820d7145.css",
+    "static/js/main.e0830982.js"
+  ]
+}
